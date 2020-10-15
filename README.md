@@ -17,7 +17,7 @@ Sparkify deseja analisar quais músicas os seus usários estão escutando.
 Utilizando os conjuntos de dados songs e logs, foi criado um star schema como mostrado abaixo, que inclui
 
 - Uma tabela fato: **songplays**, e 
-- Quatro tabelas dimensões: **users**, **songs**, **artists** and **time**.
+- Quatro tabelas dimensões: **users**, **songs**, **artists** e **time**.
 
 ![Star Schema](images/star_schema.png)
 
